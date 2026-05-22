@@ -52,6 +52,12 @@ Multi-vendor food delivery app with a React.js/Redux frontend and Node.js REST A
 ---
 
 ## Currently focused on
+🔭 Currently Focused On:
+🤖 Building AI Agents, LLM Applications, and Scalable Full-Stack Systems
+Exploring Human-Centered Technology and Intelligent System Design
+
+🌱 Learning & Growing In:
+Affective Computing • Advanced AI/ML Techniques • Cloud Engineering
 
 🖥️ Scalable microservices &nbsp;&nbsp; 🔒 Auth & security (OAuth2, Clerk) &nbsp;&nbsp; ☁️ AWS infrastructure &nbsp;&nbsp; 🤖 AI integrations &nbsp;&nbsp; 📈 Performance engineering
 
